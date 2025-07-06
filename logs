@@ -1,0 +1,850 @@
+Thu Jul  3 21:02:12 CDT 2025 Request line: GET /silly HTTP/1.1
+Thu Jul  3 21:02:12 CDT 2025 Request info: GET /silly HTTP/1.1 GET /silly HTTP/1.1
+Thu Jul  3 21:02:12 CDT 2025 Received: Host: localhost:6967
+Thu Jul  3 21:02:12 CDT 2025 Received: User-Agent: curl/8.7.1
+Thu Jul  3 21:02:12 CDT 2025 Received: Accept: */*
+Thu Jul  3 21:02:12 CDT 2025 Received: Content-Type:application/json
+Thu Jul  3 21:02:12 CDT 2025 Received: 
+Thu Jul  3 21:02:55 CDT 2025 Request line: GET /silly HTTP/1.1
+Thu Jul  3 21:02:55 CDT 2025 Request info: GET silly
+Thu Jul  3 21:02:55 CDT 2025 Received: Host: localhost:6967
+Thu Jul  3 21:02:55 CDT 2025 Received: User-Agent: curl/8.7.1
+Thu Jul  3 21:02:55 CDT 2025 Received: Accept: */*
+Thu Jul  3 21:02:55 CDT 2025 Received: Content-Type:application/json
+Thu Jul  3 21:02:55 CDT 2025 Received: 
+Thu Jul  3 21:03:13 CDT 2025 Request line: GET /silly HTTP/1.1
+Thu Jul  3 21:03:13 CDT 2025 Request info: GET silly
+Thu Jul  3 21:03:13 CDT 2025 Received: Host: localhost:6967
+Thu Jul  3 21:03:13 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Thu Jul  3 21:03:13 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Thu Jul  3 21:03:13 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Thu Jul  3 21:03:13 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Thu Jul  3 21:03:13 CDT 2025 Received: Connection: keep-alive
+Thu Jul  3 21:03:13 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Thu Jul  3 21:03:13 CDT 2025 Received: Sec-Fetch-Dest: document
+Thu Jul  3 21:03:13 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Thu Jul  3 21:03:13 CDT 2025 Received: Sec-Fetch-Site: none
+Thu Jul  3 21:03:13 CDT 2025 Received: Sec-Fetch-User: ?1
+Thu Jul  3 21:03:13 CDT 2025 Received: Priority: u=0, i
+Thu Jul  3 21:03:13 CDT 2025 Received: 
+Sat Jul  5 13:39:09 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 13:39:09 CDT 2025 Request info: GET 
+Sat Jul  5 13:39:09 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 13:39:09 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 13:39:09 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 13:39:09 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 13:39:09 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 13:39:09 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 13:39:09 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 13:39:09 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 13:39:09 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 13:39:09 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 13:39:09 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 13:39:09 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 13:39:09 CDT 2025 Received: 
+Sat Jul  5 13:39:30 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 13:39:30 CDT 2025 Request info: GET 
+Sat Jul  5 13:39:30 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 13:39:30 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 13:39:30 CDT 2025 Received: Accept: */*
+Sat Jul  5 13:39:30 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 13:39:30 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 13:39:30 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 13:39:30 CDT 2025 Received: Sec-Fetch-Dest: empty
+Sat Jul  5 13:39:30 CDT 2025 Received: Sec-Fetch-Mode: no-cors
+Sat Jul  5 13:39:30 CDT 2025 Received: Sec-Fetch-Site: same-origin
+Sat Jul  5 13:39:30 CDT 2025 Received: Priority: u=4
+Sat Jul  5 13:39:30 CDT 2025 Received: 
+Sat Jul  5 13:40:04 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 13:40:04 CDT 2025 Request info: GET 
+Sat Jul  5 13:40:04 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 13:40:04 CDT 2025 Received: User-Agent: curl/8.7.1
+Sat Jul  5 13:40:04 CDT 2025 Received: Accept: */*
+Sat Jul  5 13:40:04 CDT 2025 Received: 
+Sat Jul  5 13:40:21 CDT 2025 Request line: GET /silly HTTP/1.1
+Sat Jul  5 13:40:21 CDT 2025 Request info: GET silly
+Sat Jul  5 13:40:21 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 13:40:21 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 13:40:21 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 13:40:21 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 13:40:21 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 13:40:21 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 13:40:21 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 13:40:21 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 13:40:21 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 13:40:21 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 13:40:21 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 13:40:21 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 13:40:21 CDT 2025 Received: 
+Sat Jul  5 13:40:27 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 13:40:27 CDT 2025 Request info: GET 
+Sat Jul  5 13:40:27 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 13:40:27 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 13:40:27 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 13:40:27 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 13:40:27 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 13:40:27 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 13:40:27 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 13:40:27 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 13:40:27 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 13:40:27 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 13:40:27 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 13:40:27 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 13:40:27 CDT 2025 Received: 
+Sat Jul  5 13:41:35 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 13:41:35 CDT 2025 Request info: GET 
+Sat Jul  5 13:41:35 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 13:41:35 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 13:41:35 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 13:41:35 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 13:41:35 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 13:41:35 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 13:41:35 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 13:41:35 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 13:41:35 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 13:41:35 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 13:41:35 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 13:41:35 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 13:41:35 CDT 2025 Received: 
+Sat Jul  5 13:42:01 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 13:42:01 CDT 2025 Request info: GET 
+Sat Jul  5 13:42:01 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 13:42:01 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 13:42:01 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 13:42:01 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 13:42:01 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 13:42:01 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 13:42:01 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 13:42:01 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 13:42:01 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 13:42:01 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 13:42:01 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 13:42:01 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 13:42:01 CDT 2025 Received: 
+Sat Jul  5 13:42:10 CDT 2025 Request line: GET /silly HTTP/1.1
+Sat Jul  5 13:42:10 CDT 2025 Request info: GET silly
+Sat Jul  5 13:42:10 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 13:42:10 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 13:42:10 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 13:42:10 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 13:42:10 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 13:42:10 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 13:42:10 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 13:42:10 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 13:42:10 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 13:42:10 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 13:42:10 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 13:42:10 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 13:42:10 CDT 2025 Received: 
+Sat Jul  5 13:43:24 CDT 2025 Request line: GET /silly HTTP/1.1
+Sat Jul  5 13:43:24 CDT 2025 Request info: GET silly
+Sat Jul  5 13:43:24 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 13:43:24 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 13:43:24 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 13:43:24 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 13:43:24 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 13:43:24 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 13:43:24 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 13:43:24 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 13:43:24 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 13:43:24 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 13:43:24 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 13:43:24 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 13:43:24 CDT 2025 Received: 
+Sat Jul  5 13:43:33 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 13:43:33 CDT 2025 Request info: GET 
+Sat Jul  5 13:43:33 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 13:43:33 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 13:43:33 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 13:43:33 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 13:43:33 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 13:43:33 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 13:43:33 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 13:43:33 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 13:43:33 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 13:43:33 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 13:43:33 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 13:43:33 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 13:43:33 CDT 2025 Received: 
+Sat Jul  5 13:43:57 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 13:43:57 CDT 2025 Request info: GET 
+Sat Jul  5 13:43:57 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 13:43:57 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 13:43:57 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 13:43:57 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 13:43:57 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 13:43:57 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 13:43:57 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 13:43:57 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 13:43:57 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 13:43:57 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 13:43:57 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 13:43:57 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 13:43:57 CDT 2025 Received: 
+Sat Jul  5 13:44:03 CDT 2025 Request line: GET /silly HTTP/1.1
+Sat Jul  5 13:44:03 CDT 2025 Request info: GET silly
+Sat Jul  5 13:44:03 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 13:44:03 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 13:44:03 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 13:44:03 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 13:44:03 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 13:44:03 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 13:44:03 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 13:44:03 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 13:44:03 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 13:44:03 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 13:44:03 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 13:44:03 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 13:44:03 CDT 2025 Received: 
+Sat Jul  5 13:46:08 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 13:46:08 CDT 2025 Request info: GET 
+Sat Jul  5 13:46:08 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 13:46:08 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 13:46:08 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 13:46:08 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 13:46:08 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 13:46:08 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 13:46:08 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 13:46:08 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 13:46:08 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 13:46:08 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 13:46:08 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 13:46:08 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 13:46:08 CDT 2025 Received: 
+Sat Jul  5 14:13:36 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 14:13:36 CDT 2025 Request info: GET 
+Sat Jul  5 14:13:36 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 14:13:36 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 14:13:36 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 14:13:36 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 14:13:36 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 14:13:36 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 14:13:36 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 14:13:36 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 14:13:36 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 14:13:36 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 14:13:36 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 14:13:36 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 14:13:36 CDT 2025 Received: 
+Sat Jul  5 14:13:53 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 14:13:53 CDT 2025 Request info: GET 
+Sat Jul  5 14:13:53 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 14:13:53 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 14:13:53 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 14:13:53 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 14:13:53 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 14:13:53 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 14:13:53 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 14:13:53 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 14:13:53 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 14:13:53 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 14:13:53 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 14:13:53 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 14:13:53 CDT 2025 Received: 
+Sat Jul  5 14:14:16 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 14:14:16 CDT 2025 Request info: GET 
+Sat Jul  5 14:14:16 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 14:14:16 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 14:14:16 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 14:14:16 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 14:14:16 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 14:14:16 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 14:14:16 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 14:14:16 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 14:14:16 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 14:14:16 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 14:14:16 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 14:14:16 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 14:14:16 CDT 2025 Received: 
+Sat Jul  5 14:14:27 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 14:14:27 CDT 2025 Request info: GET 
+Sat Jul  5 14:14:27 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 14:14:27 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 14:14:27 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 14:14:27 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 14:14:27 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 14:14:27 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 14:14:27 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 14:14:27 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 14:14:27 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 14:14:27 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 14:14:27 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 14:14:27 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 14:14:27 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 14:14:27 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 14:14:27 CDT 2025 Received: 
+Sat Jul  5 14:14:27 CDT 2025 Request line: GET /favicon.ico HTTP/1.1
+Sat Jul  5 14:14:27 CDT 2025 Request info: GET favicon.ico
+Sat Jul  5 14:14:27 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 14:14:27 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 14:14:27 CDT 2025 Received: Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Sat Jul  5 14:14:27 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 14:14:27 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 14:14:27 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 14:14:27 CDT 2025 Received: Referer: http://localhost:6967/
+Sat Jul  5 14:14:27 CDT 2025 Received: Sec-Fetch-Dest: image
+Sat Jul  5 14:14:27 CDT 2025 Received: Sec-Fetch-Mode: no-cors
+Sat Jul  5 14:14:27 CDT 2025 Received: Sec-Fetch-Site: same-origin
+Sat Jul  5 14:14:27 CDT 2025 Received: Priority: u=6
+Sat Jul  5 14:14:27 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 14:14:27 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 14:14:27 CDT 2025 Received: 
+Sat Jul  5 20:19:48 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 20:19:48 CDT 2025 Request info: GET 
+Sat Jul  5 20:19:48 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:19:48 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:19:48 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 20:19:48 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:19:48 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:19:48 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:19:48 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 20:19:48 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 20:19:48 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 20:19:48 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 20:19:48 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 20:19:48 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 20:19:48 CDT 2025 Received: 
+Sat Jul  5 20:20:18 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 20:20:18 CDT 2025 Request info: GET 
+Sat Jul  5 20:20:18 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:20:18 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:20:18 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 20:20:18 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:20:18 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:20:18 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:20:18 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 20:20:18 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 20:20:18 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 20:20:18 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 20:20:18 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 20:20:18 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 20:20:18 CDT 2025 Received: 
+Sat Jul  5 20:20:29 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 20:20:29 CDT 2025 Request info: GET 
+Sat Jul  5 20:20:29 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:20:29 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:20:29 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 20:20:29 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:20:29 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:20:29 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:20:29 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 20:20:29 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 20:20:29 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 20:20:29 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 20:20:29 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 20:20:29 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 20:20:29 CDT 2025 Received: 
+Sat Jul  5 20:21:01 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 20:21:01 CDT 2025 Request info: GET 
+Sat Jul  5 20:21:01 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:21:01 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:21:01 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 20:21:01 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:21:01 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:21:01 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:21:01 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 20:21:01 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 20:21:01 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 20:21:01 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 20:21:01 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 20:21:01 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 20:21:01 CDT 2025 Received: 
+Sat Jul  5 20:21:02 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 20:21:02 CDT 2025 Request info: GET 
+Sat Jul  5 20:21:02 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:21:02 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:21:02 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 20:21:02 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:21:02 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:21:02 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:21:02 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 20:21:02 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 20:21:02 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 20:21:02 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 20:21:02 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 20:21:02 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 20:21:02 CDT 2025 Received: 
+Sat Jul  5 20:21:12 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 20:21:12 CDT 2025 Request info: GET 
+Sat Jul  5 20:21:12 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:21:12 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:21:12 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 20:21:12 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:21:12 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:21:12 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:21:12 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 20:21:12 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 20:21:12 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 20:21:12 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 20:21:12 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 20:21:12 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 20:21:12 CDT 2025 Received: 
+Sat Jul  5 20:21:16 CDT 2025 Request line: GET /silly HTTP/1.1
+Sat Jul  5 20:21:16 CDT 2025 Request info: GET silly
+Sat Jul  5 20:21:16 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:21:16 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:21:16 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 20:21:16 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:21:16 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:21:16 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:21:16 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 20:21:16 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 20:21:16 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 20:21:16 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 20:21:16 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 20:21:16 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 20:21:16 CDT 2025 Received: 
+Sat Jul  5 20:21:19 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 20:21:19 CDT 2025 Request info: GET 
+Sat Jul  5 20:21:19 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:21:19 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:21:19 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 20:21:19 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:21:19 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:21:19 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:21:19 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 20:21:19 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 20:21:19 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 20:21:19 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 20:21:19 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 20:21:19 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 20:21:19 CDT 2025 Received: 
+Sat Jul  5 20:23:30 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 20:23:30 CDT 2025 Request info: GET 
+Sat Jul  5 20:23:30 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:23:30 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:23:30 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 20:23:30 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:23:30 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:23:30 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:23:30 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 20:23:30 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 20:23:30 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 20:23:30 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 20:23:30 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 20:23:30 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 20:23:30 CDT 2025 Received: 
+Sat Jul  5 20:23:46 CDT 2025 Request line: GET /silly HTTP/1.1
+Sat Jul  5 20:23:46 CDT 2025 Request info: GET silly
+Sat Jul  5 20:23:46 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:23:46 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:23:46 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 20:23:46 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:23:46 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:23:46 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:23:46 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 20:23:46 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 20:23:46 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 20:23:46 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 20:23:46 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 20:23:46 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 20:23:46 CDT 2025 Received: 
+Sat Jul  5 20:24:13 CDT 2025 Request line: GET /silly HTTP/1.1
+Sat Jul  5 20:24:13 CDT 2025 Request info: GET silly
+Sat Jul  5 20:24:13 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:24:13 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:24:13 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 20:24:13 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:24:13 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:24:13 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:24:13 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 20:24:13 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 20:24:13 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 20:24:13 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 20:24:13 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 20:24:13 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 20:24:13 CDT 2025 Received: 
+Sat Jul  5 20:24:13 CDT 2025 Request line: GET /styles.css HTTP/1.1
+Sat Jul  5 20:24:13 CDT 2025 Request info: GET styles.css
+Sat Jul  5 20:24:13 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:24:13 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:24:13 CDT 2025 Received: Accept: text/css,*/*;q=0.1
+Sat Jul  5 20:24:13 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:24:13 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:24:13 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:24:13 CDT 2025 Received: Referer: http://localhost:6967/silly
+Sat Jul  5 20:24:13 CDT 2025 Received: Sec-Fetch-Dest: style
+Sat Jul  5 20:24:13 CDT 2025 Received: Sec-Fetch-Mode: no-cors
+Sat Jul  5 20:24:13 CDT 2025 Received: Sec-Fetch-Site: same-origin
+Sat Jul  5 20:24:13 CDT 2025 Received: Priority: u=2
+Sat Jul  5 20:24:13 CDT 2025 Received: 
+Sat Jul  5 20:24:13 CDT 2025 Request line: GET /styles.css HTTP/1.1
+Sat Jul  5 20:24:13 CDT 2025 Request info: GET styles.css
+Sat Jul  5 20:24:13 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:24:13 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:24:13 CDT 2025 Received: Accept: text/css,*/*;q=0.1
+Sat Jul  5 20:24:14 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:24:14 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:24:14 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:24:14 CDT 2025 Received: Referer: http://localhost:6967/silly
+Sat Jul  5 20:24:14 CDT 2025 Received: Sec-Fetch-Dest: style
+Sat Jul  5 20:24:14 CDT 2025 Received: Sec-Fetch-Mode: no-cors
+Sat Jul  5 20:24:14 CDT 2025 Received: Sec-Fetch-Site: same-origin
+Sat Jul  5 20:24:14 CDT 2025 Received: Priority: u=2
+Sat Jul  5 20:24:14 CDT 2025 Received: 
+Sat Jul  5 20:24:16 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 20:24:16 CDT 2025 Request info: GET 
+Sat Jul  5 20:24:16 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:24:16 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:24:16 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 20:24:16 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:24:16 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:24:16 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:24:16 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 20:24:16 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 20:24:16 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 20:24:16 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 20:24:16 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 20:24:16 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 20:24:16 CDT 2025 Received: 
+Sat Jul  5 20:24:16 CDT 2025 Request line: GET /styles.css HTTP/1.1
+Sat Jul  5 20:24:16 CDT 2025 Request info: GET styles.css
+Sat Jul  5 20:24:16 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:24:16 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:24:16 CDT 2025 Received: Accept: text/css,*/*;q=0.1
+Sat Jul  5 20:24:16 CDT 2025 Request line: GET /styles.css HTTP/1.1
+Sat Jul  5 20:24:16 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:24:16 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:24:16 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:24:16 CDT 2025 Request info: GET styles.css
+Sat Jul  5 20:24:16 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:24:16 CDT 2025 Received: Referer: http://localhost:6967/
+Sat Jul  5 20:24:16 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:24:16 CDT 2025 Received: Sec-Fetch-Dest: style
+Sat Jul  5 20:24:16 CDT 2025 Received: Accept: text/css,*/*;q=0.1
+Sat Jul  5 20:24:16 CDT 2025 Received: Sec-Fetch-Mode: no-cors
+Sat Jul  5 20:24:16 CDT 2025 Received: Sec-Fetch-Site: same-origin
+Sat Jul  5 20:24:16 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:24:16 CDT 2025 Received: Priority: u=2
+Sat Jul  5 20:24:16 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:24:16 CDT 2025 Received: 
+Sat Jul  5 20:24:16 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:24:16 CDT 2025 Received: Referer: http://localhost:6967/
+Sat Jul  5 20:24:16 CDT 2025 Received: Sec-Fetch-Dest: style
+Sat Jul  5 20:24:16 CDT 2025 Received: Sec-Fetch-Mode: no-cors
+Sat Jul  5 20:24:16 CDT 2025 Received: Sec-Fetch-Site: same-origin
+Sat Jul  5 20:24:16 CDT 2025 Received: Priority: u=2
+Sat Jul  5 20:24:16 CDT 2025 Received: 
+Sat Jul  5 20:25:50 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 20:25:50 CDT 2025 Request info: GET 
+Sat Jul  5 20:25:50 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:25:50 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:25:50 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 20:25:50 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:25:50 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:25:50 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:25:50 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 20:25:50 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 20:25:50 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 20:25:50 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 20:25:50 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 20:25:50 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 20:25:50 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 20:25:50 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 20:25:50 CDT 2025 Received: 
+Sat Jul  5 20:25:50 CDT 2025 Request line: GET /styles.css HTTP/1.1
+Sat Jul  5 20:25:50 CDT 2025 Request line: GET /styles.css HTTP/1.1
+Sat Jul  5 20:25:50 CDT 2025 Request info: GET styles.css
+Sat Jul  5 20:25:50 CDT 2025 Request info: GET styles.css
+Sat Jul  5 20:25:50 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:25:50 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:25:50 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:25:50 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:25:50 CDT 2025 Received: Accept: text/css,*/*;q=0.1
+Sat Jul  5 20:25:50 CDT 2025 Received: Accept: text/css,*/*;q=0.1
+Sat Jul  5 20:25:50 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:25:50 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:25:50 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:25:50 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:25:50 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:25:50 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:25:50 CDT 2025 Received: Referer: http://localhost:6967/
+Sat Jul  5 20:25:50 CDT 2025 Received: Referer: http://localhost:6967/
+Sat Jul  5 20:25:50 CDT 2025 Received: Sec-Fetch-Dest: style
+Sat Jul  5 20:25:50 CDT 2025 Received: Sec-Fetch-Dest: style
+Sat Jul  5 20:25:50 CDT 2025 Received: Sec-Fetch-Mode: no-cors
+Sat Jul  5 20:25:50 CDT 2025 Received: Sec-Fetch-Mode: no-cors
+Sat Jul  5 20:25:50 CDT 2025 Received: Sec-Fetch-Site: same-origin
+Sat Jul  5 20:25:50 CDT 2025 Received: Sec-Fetch-Site: same-origin
+Sat Jul  5 20:25:50 CDT 2025 Received: Priority: u=2
+Sat Jul  5 20:25:50 CDT 2025 Received: Priority: u=2
+Sat Jul  5 20:25:50 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 20:25:50 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 20:25:50 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 20:25:50 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 20:25:50 CDT 2025 Received: 
+Sat Jul  5 20:25:50 CDT 2025 Received: 
+Sat Jul  5 20:25:50 CDT 2025 Request line: GET /favicon.ico HTTP/1.1
+Sat Jul  5 20:25:50 CDT 2025 Request info: GET favicon.ico
+Sat Jul  5 20:25:50 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:25:50 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:25:50 CDT 2025 Received: Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Sat Jul  5 20:25:50 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:25:50 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:25:50 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:25:50 CDT 2025 Received: Referer: http://localhost:6967/
+Sat Jul  5 20:25:50 CDT 2025 Received: Sec-Fetch-Dest: image
+Sat Jul  5 20:25:50 CDT 2025 Received: Sec-Fetch-Mode: no-cors
+Sat Jul  5 20:25:50 CDT 2025 Received: Sec-Fetch-Site: same-origin
+Sat Jul  5 20:25:50 CDT 2025 Received: Priority: u=6
+Sat Jul  5 20:25:50 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 20:25:50 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 20:25:50 CDT 2025 Received: 
+Sat Jul  5 20:36:40 CDT 2025 Request line: GET /styles.css HTTP/1.1
+Sat Jul  5 20:36:40 CDT 2025 Request info: GET styles.css
+Sat Jul  5 20:36:40 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:36:40 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:36:40 CDT 2025 Received: Accept: text/css,*/*;q=0.1
+Sat Jul  5 20:36:40 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:36:40 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:36:40 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:36:40 CDT 2025 Received: Sec-Fetch-Dest: style
+Sat Jul  5 20:36:40 CDT 2025 Received: Sec-Fetch-Mode: no-cors
+Sat Jul  5 20:36:40 CDT 2025 Received: Sec-Fetch-Site: same-origin
+Sat Jul  5 20:36:40 CDT 2025 Received: Priority: u=4
+Sat Jul  5 20:36:40 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 20:36:40 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 20:36:40 CDT 2025 Received: 
+Sat Jul  5 20:42:24 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 20:42:24 CDT 2025 Request info: GET 
+Sat Jul  5 20:42:24 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:42:24 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:42:24 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 20:42:24 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:42:24 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:42:24 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:42:24 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 20:42:24 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 20:42:24 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 20:42:24 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 20:42:24 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 20:42:24 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 20:42:24 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 20:42:24 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 20:42:24 CDT 2025 Received: 
+Sat Jul  5 20:42:25 CDT 2025 Request line: GET /styles.css HTTP/1.1
+Sat Jul  5 20:42:25 CDT 2025 Request info: GET styles.css
+Sat Jul  5 20:42:25 CDT 2025 Request line: GET /styles.css HTTP/1.1
+Sat Jul  5 20:42:25 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:42:25 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:42:25 CDT 2025 Received: Accept: text/css,*/*;q=0.1
+Sat Jul  5 20:42:25 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:42:25 CDT 2025 Request info: GET styles.css
+Sat Jul  5 20:42:25 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:42:25 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:42:25 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:42:25 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:42:25 CDT 2025 Received: Referer: http://localhost:6967/
+Sat Jul  5 20:42:25 CDT 2025 Received: Accept: text/css,*/*;q=0.1
+Sat Jul  5 20:42:25 CDT 2025 Received: Sec-Fetch-Dest: style
+Sat Jul  5 20:42:25 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:42:25 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:42:25 CDT 2025 Received: Sec-Fetch-Mode: no-cors
+Sat Jul  5 20:42:25 CDT 2025 Received: Sec-Fetch-Site: same-origin
+Sat Jul  5 20:42:25 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:42:25 CDT 2025 Received: Priority: u=2
+Sat Jul  5 20:42:25 CDT 2025 Received: Referer: http://localhost:6967/
+Sat Jul  5 20:42:25 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 20:42:25 CDT 2025 Received: Sec-Fetch-Dest: style
+Sat Jul  5 20:42:25 CDT 2025 Received: Sec-Fetch-Mode: no-cors
+Sat Jul  5 20:42:25 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 20:42:25 CDT 2025 Received: Sec-Fetch-Site: same-origin
+Sat Jul  5 20:42:25 CDT 2025 Received: 
+Sat Jul  5 20:42:25 CDT 2025 Received: Priority: u=2
+Sat Jul  5 20:42:25 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 20:42:25 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 20:42:25 CDT 2025 Received: 
+Sat Jul  5 20:42:25 CDT 2025 Request line: GET /favicon.ico HTTP/1.1
+Sat Jul  5 20:42:25 CDT 2025 Request info: GET favicon.ico
+Sat Jul  5 20:42:25 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:42:25 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:42:25 CDT 2025 Received: Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Sat Jul  5 20:42:25 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:42:25 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:42:25 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:42:25 CDT 2025 Received: Referer: http://localhost:6967/
+Sat Jul  5 20:42:25 CDT 2025 Received: Sec-Fetch-Dest: image
+Sat Jul  5 20:42:25 CDT 2025 Received: Sec-Fetch-Mode: no-cors
+Sat Jul  5 20:42:25 CDT 2025 Received: Sec-Fetch-Site: same-origin
+Sat Jul  5 20:42:25 CDT 2025 Received: Priority: u=6
+Sat Jul  5 20:42:25 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 20:42:25 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 20:42:25 CDT 2025 Received: 
+Sat Jul  5 20:42:25 CDT 2025 Request line: GET /styles.css HTTP/1.1
+Sat Jul  5 20:42:25 CDT 2025 Request info: GET styles.css
+Sat Jul  5 20:42:25 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:42:25 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:42:25 CDT 2025 Received: Accept: text/css,*/*;q=0.1
+Sat Jul  5 20:42:25 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:42:25 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:42:26 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:42:26 CDT 2025 Received: Sec-Fetch-Dest: style
+Sat Jul  5 20:42:26 CDT 2025 Received: Sec-Fetch-Mode: no-cors
+Sat Jul  5 20:42:26 CDT 2025 Received: Sec-Fetch-Site: same-origin
+Sat Jul  5 20:42:26 CDT 2025 Received: Priority: u=4
+Sat Jul  5 20:42:26 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 20:42:26 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 20:42:26 CDT 2025 Received: 
+Sat Jul  5 20:46:41 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 20:46:41 CDT 2025 Request info: GET 
+Sat Jul  5 20:46:41 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:46:41 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:46:41 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 20:46:41 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:46:41 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:46:41 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:46:41 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 20:46:41 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 20:46:41 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 20:46:41 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 20:46:41 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 20:46:41 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 20:46:41 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 20:46:41 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 20:46:41 CDT 2025 Received: 
+Sat Jul  5 20:46:42 CDT 2025 Request line: GET /styles.css HTTP/1.1
+Sat Jul  5 20:46:42 CDT 2025 Request line: GET /styles.css HTTP/1.1
+Sat Jul  5 20:46:42 CDT 2025 Request info: GET styles.css
+Sat Jul  5 20:46:42 CDT 2025 Request info: GET styles.css
+Sat Jul  5 20:46:42 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:46:42 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:46:42 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:46:42 CDT 2025 Received: Accept: text/css,*/*;q=0.1
+Sat Jul  5 20:46:42 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:46:42 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:46:42 CDT 2025 Received: Accept: text/css,*/*;q=0.1
+Sat Jul  5 20:46:42 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:46:42 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:46:42 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:46:42 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:46:42 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:46:42 CDT 2025 Received: Referer: http://localhost:6967/
+Sat Jul  5 20:46:42 CDT 2025 Received: Sec-Fetch-Dest: style
+Sat Jul  5 20:46:42 CDT 2025 Received: Referer: http://localhost:6967/
+Sat Jul  5 20:46:42 CDT 2025 Received: Sec-Fetch-Mode: no-cors
+Sat Jul  5 20:46:42 CDT 2025 Received: Sec-Fetch-Dest: style
+Sat Jul  5 20:46:42 CDT 2025 Received: Sec-Fetch-Mode: no-cors
+Sat Jul  5 20:46:42 CDT 2025 Received: Sec-Fetch-Site: same-origin
+Sat Jul  5 20:46:42 CDT 2025 Received: Priority: u=2
+Sat Jul  5 20:46:42 CDT 2025 Received: Sec-Fetch-Site: same-origin
+Sat Jul  5 20:46:42 CDT 2025 Received: Priority: u=2
+Sat Jul  5 20:46:42 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 20:46:42 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 20:46:42 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 20:46:42 CDT 2025 Received: 
+Sat Jul  5 20:46:42 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 20:46:42 CDT 2025 Received: 
+Sat Jul  5 20:46:42 CDT 2025 Request line: GET /favicon.ico HTTP/1.1
+Sat Jul  5 20:46:42 CDT 2025 Request info: GET favicon.ico
+Sat Jul  5 20:46:42 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:46:42 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:46:42 CDT 2025 Received: Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Sat Jul  5 20:46:42 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:46:42 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:46:42 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:46:42 CDT 2025 Received: Referer: http://localhost:6967/
+Sat Jul  5 20:46:42 CDT 2025 Received: Sec-Fetch-Dest: image
+Sat Jul  5 20:46:42 CDT 2025 Received: Sec-Fetch-Mode: no-cors
+Sat Jul  5 20:46:42 CDT 2025 Received: Sec-Fetch-Site: same-origin
+Sat Jul  5 20:46:42 CDT 2025 Received: Priority: u=6
+Sat Jul  5 20:46:42 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 20:46:42 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 20:46:42 CDT 2025 Received: 
+Sat Jul  5 20:47:46 CDT 2025 Request line: GET / HTTP/1.1
+Sat Jul  5 20:47:46 CDT 2025 Request info: GET 
+Sat Jul  5 20:47:46 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:47:46 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:47:46 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 20:47:46 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:47:46 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:47:46 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:47:46 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 20:47:46 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 20:47:46 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 20:47:46 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 20:47:46 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 20:47:46 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 20:47:46 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 20:47:46 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 20:47:46 CDT 2025 Received: 
+Sat Jul  5 20:47:46 CDT 2025 Request line: GET /styles.css HTTP/1.1
+Sat Jul  5 20:47:46 CDT 2025 Request info: GET styles.css
+Sat Jul  5 20:47:46 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:47:46 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:47:46 CDT 2025 Request line: GET /styles.css HTTP/1.1
+Sat Jul  5 20:47:46 CDT 2025 Received: Accept: text/css,*/*;q=0.1
+Sat Jul  5 20:47:46 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:47:46 CDT 2025 Request info: GET styles.css
+Sat Jul  5 20:47:46 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:47:46 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:47:46 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:47:46 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:47:46 CDT 2025 Received: Referer: http://localhost:6967/
+Sat Jul  5 20:47:46 CDT 2025 Received: Accept: text/css,*/*;q=0.1
+Sat Jul  5 20:47:46 CDT 2025 Received: Sec-Fetch-Dest: style
+Sat Jul  5 20:47:46 CDT 2025 Received: Sec-Fetch-Mode: no-cors
+Sat Jul  5 20:47:46 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:47:46 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:47:46 CDT 2025 Received: Sec-Fetch-Site: same-origin
+Sat Jul  5 20:47:46 CDT 2025 Received: Priority: u=2
+Sat Jul  5 20:47:46 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:47:46 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 20:47:46 CDT 2025 Received: Referer: http://localhost:6967/
+Sat Jul  5 20:47:46 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 20:47:46 CDT 2025 Received: Sec-Fetch-Dest: style
+Sat Jul  5 20:47:46 CDT 2025 Received: Sec-Fetch-Mode: no-cors
+Sat Jul  5 20:47:46 CDT 2025 Received: 
+Sat Jul  5 20:47:46 CDT 2025 Received: Sec-Fetch-Site: same-origin
+Sat Jul  5 20:47:46 CDT 2025 Received: Priority: u=2
+Sat Jul  5 20:47:46 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 20:47:46 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 20:47:46 CDT 2025 Received: 
+Sat Jul  5 20:47:46 CDT 2025 Request line: GET /favicon.ico HTTP/1.1
+Sat Jul  5 20:47:46 CDT 2025 Request info: GET favicon.ico
+Sat Jul  5 20:47:46 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:47:46 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:47:46 CDT 2025 Received: Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Sat Jul  5 20:47:46 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:47:46 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:47:46 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:47:46 CDT 2025 Received: Referer: http://localhost:6967/
+Sat Jul  5 20:47:46 CDT 2025 Received: Sec-Fetch-Dest: image
+Sat Jul  5 20:47:46 CDT 2025 Received: Sec-Fetch-Mode: no-cors
+Sat Jul  5 20:47:46 CDT 2025 Received: Sec-Fetch-Site: same-origin
+Sat Jul  5 20:47:46 CDT 2025 Received: Priority: u=6
+Sat Jul  5 20:47:46 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 20:47:46 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 20:47:46 CDT 2025 Received: 
+Sat Jul  5 20:47:49 CDT 2025 Request line: GET /silly HTTP/1.1
+Sat Jul  5 20:47:49 CDT 2025 Request info: GET silly
+Sat Jul  5 20:47:49 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:47:49 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:47:49 CDT 2025 Received: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Sat Jul  5 20:47:49 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:47:49 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:47:49 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:47:49 CDT 2025 Received: Upgrade-Insecure-Requests: 1
+Sat Jul  5 20:47:49 CDT 2025 Received: Sec-Fetch-Dest: document
+Sat Jul  5 20:47:49 CDT 2025 Received: Sec-Fetch-Mode: navigate
+Sat Jul  5 20:47:49 CDT 2025 Received: Sec-Fetch-Site: none
+Sat Jul  5 20:47:49 CDT 2025 Received: Sec-Fetch-User: ?1
+Sat Jul  5 20:47:49 CDT 2025 Received: Priority: u=0, i
+Sat Jul  5 20:47:49 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 20:47:49 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 20:47:50 CDT 2025 Received: 
+Sat Jul  5 20:47:50 CDT 2025 Request line: GET /favicon.ico HTTP/1.1
+Sat Jul  5 20:47:50 CDT 2025 Request info: GET favicon.ico
+Sat Jul  5 20:47:50 CDT 2025 Received: Host: localhost:6967
+Sat Jul  5 20:47:50 CDT 2025 Received: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0
+Sat Jul  5 20:47:50 CDT 2025 Received: Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Sat Jul  5 20:47:50 CDT 2025 Received: Accept-Language: en-US,en;q=0.5
+Sat Jul  5 20:47:50 CDT 2025 Received: Accept-Encoding: gzip, deflate, br, zstd
+Sat Jul  5 20:47:50 CDT 2025 Received: Connection: keep-alive
+Sat Jul  5 20:47:50 CDT 2025 Received: Referer: http://localhost:6967/silly
+Sat Jul  5 20:47:50 CDT 2025 Received: Sec-Fetch-Dest: image
+Sat Jul  5 20:47:50 CDT 2025 Received: Sec-Fetch-Mode: no-cors
+Sat Jul  5 20:47:50 CDT 2025 Received: Sec-Fetch-Site: same-origin
+Sat Jul  5 20:47:50 CDT 2025 Received: Priority: u=6
+Sat Jul  5 20:47:50 CDT 2025 Received: Pragma: no-cache
+Sat Jul  5 20:47:50 CDT 2025 Received: Cache-Control: no-cache
+Sat Jul  5 20:47:50 CDT 2025 Received: 
